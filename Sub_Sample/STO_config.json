@@ -1,0 +1,33 @@
+{
+	"Continuous": [
+							"diff_sent_view_minute",
+							"diff_sent_click_minute",
+							"diff_sent_first_purchase_day",
+							"diff_sent_last_purchase_day",
+							"days_since_first_purchase",
+							"days_since_last_purchase",
+							"diff_first_last_purchase_day",
+							"no_of_emails_sent",
+							"no_of_emails_clicked",
+							"no_of_emails_viewed",
+							"age",
+							"ltd_sales",
+							"ltd_sales_ecomm",
+							"total_num_orders",
+							"total_num_ec_orders"
+						  ],
+						  
+	"Categorical": [
+							 "is_first_view_osname_android",
+							 "is_first_view_osname_windows",
+							 "is_first_view_osname_ios",
+							 "is_first_view_osname_other",
+							 "first_view_ismobile",
+							 "has_clicked",
+							 "is_first_purchase_channel_ecomm",
+							 "is_last_purchase_channel_ecomm",
+							 "is_first_view_html",
+							 "is_first_view_text"
+							]
+}
+						  

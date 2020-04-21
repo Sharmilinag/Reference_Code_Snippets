@@ -1,0 +1,5 @@
+The variable of interest is continuous (not discrete). The measurement scale is at least ordinal.
+2. The probability distributions of the two populations are identical, except for location.
+3. The two samples are independent.
+4. Both samples are simple random samples from their respective populations. Each individual in the
+population has an equal probability of being selected in the sample. 

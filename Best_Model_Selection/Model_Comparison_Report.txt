@@ -1,0 +1,29 @@
+
+	=====================================================
+
+	HYPER PARAMETER TUNED TRAINED MODEL COMPARISON REPORT
+	=====================================================
+
+Data File: s3://ada-engine/MODEL_SELECTION/DATASETS/sto_dataset_small.csv
+
+Training Sample Count: 952023
+Test Sample Count: 238006
+Total 4 Classes Detected in Training Data
+Total 4 Classes Detected in Test Data
+
+Train Data Class Distribution
+Class      Sample_Count  Percentage
+-------  --------------  ------------
+0to5              20337  0.02%
+12to17           332167  0.35%
+18to23           113654  0.12%
+6to11            485865  0.51%
+
+Test Data Class Distribution
+Class      Count  Percentage
+-------  -------  ------------
+0to5        5062  0.02%
+12to17     82804  0.35%
+18to23     28335  0.12%
+6to11     121805  0.51%
+Task Type: MULTI-CLASS CLASSIFICATION
